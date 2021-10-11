@@ -91,7 +91,7 @@ nav .navbar-nav .nav-item .nav-link{
     align-items: center;
 }
 .midcolimg{
-    
+   
     background-repeat: no-repeat;
     background-size: cover;
     height: 150px;
@@ -100,4 +100,19 @@ nav .navbar-nav .nav-item .nav-link{
     border-bottom-left-radius: 5px;
     position: relative;
     text-align: center;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+h4{
+    font-size:22px;
+}
+.txt_h4{
+    display: flex;
+    float: left;
+    align-items: center;
+    justify-content: center;
+    font-family: 'Eremitage', sans-serif;
+    color: #34495e;
+    padding-right: 180px;
 }
